@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-06-27 19:34:35,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14764696145_strL_EcAvcHdL0Mate.flv?txSecret=ea79fc81ac40099ac7da6ac73c9d4fff&txTime=6a404e96&stat=7RXqNes9YdIwQtTXSn6oLa6RT%2FWaZM0y2tU6UzCBUZ00fJoFriqabx6wZiWBkIda&tsc=origin&highTraffic=2&oidc=watchmen&sidc=2756&no_script=1&srcStrm=wq0--JMcvyE&fd=0&ss=s20&tfc_buyer=1
+2026-06-28 07:07:28,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 
 📺央视频道,#genre#
-CCTV-13,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14764696145_strL_EcAvcHdL0Mate.flv?txSecret=ea79fc81ac40099ac7da6ac73c9d4fff&txTime=6a404e96&stat=7RXqNes9YdIwQtTXSn6oLa6RT%2FWaZM0y2tU6UzCBUZ00fJoFriqabx6wZiWBkIda&tsc=origin&highTraffic=2&oidc=watchmen&sidc=2756&no_script=1&srcStrm=wq0--JMcvyE&fd=0&ss=s20&tfc_buyer=1
 
 💰央视付费频道,#genre#
 
@@ -70,6 +69,7 @@ CCTV-13,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14764696145_s
 ☘️湖北频道,#genre#
 
 ☘️广西频道,#genre#
+北海新闻综合,https://live.gxrb.com.cn/gx/beihai/index.m3u8
 南宁新闻综合,rtmp://tv.qntv.net/channellive/ch1?zguizd
 来宾综合,http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8
 
@@ -129,13 +129,12 @@ CCTV-13,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14764696145_s
 嘉峪关综合,rtsp://221.7.61.147/PLTV/88888910/224/3221225607/10000100000000060000000000789667_0.smil
 嘉峪关综合,rtsp://116.176.26.19/PLTV/88888910/224/3221225607/10000100000000060000000000789667_0.smil
 嘉峪关综合,rtsp://60.13.39.18/PLTV/88888910/224/3221225607/10000100000000060000000000789667_0.smil
+天祝综合,https://play.kankanlive.com/live/1656487214793905.m3u8
 平凉新闻综合,http://play.kankanlive.com/live/1720583434627241.m3u8
 永昌综合,rtmp://play.kankanlive.com/live/1652755738635915
 永昌综合,https://play.kankanlive.com/live/1652755738635915.m3u8
-渭源新闻,rtmp://play.kankanlive.com/live/1701943385631927
-渭源新闻,https://play.kankanlive.com/live/1711955176432990.m3u8
+甘南藏语,http://play.kankanlive.com/live/1720408280309109.m3u8
 白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
-白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8
 秦安综合,rtmp://play.kankanlive.com/live/1680577080200944
 秦安综合,http://play.kankanlive.com/live/1683944827526991.m3u8
 西峰综合,https://play.kankanlive.com/live/1683944827526991.m3u8
@@ -144,8 +143,8 @@ CCTV-13,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14764696145_s
 伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8?zxinjd
 伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
 伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8?zxinjd
-兵团五师双河新闻综合,https://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?zxinjd
 兵团五师双河新闻综合,http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?fbl=
+兵团五师双河新闻综合,https://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?zxinjd
 玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd,
 可克达拉综合,http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
 奎屯汉语综合,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
@@ -201,6 +200,7 @@ CCTV-13,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14764696145_s
 ☘️云南频道,#genre#
 
 ☘️青海频道,#genre#
+化隆综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=28e8ff&tk=6949f8ce7202
 
 ☘️黑龙江频道,#genre#
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild#http://stream.hrbtv.net/yspd/sd/live.m3u8
@@ -209,8 +209,8 @@ CCTV-13,https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14764696145_s
 哈尔滨生活,http://111.43.126.240:9003/hls/3/index.m3u8
 哈尔滨生活,https://stream.hrbtv.net/shpd/playlist.m3u8
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
-哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild#http://stream.hrbtv.net/ylpd/sd/live.m3u8#https://stream.hrbtv.net/ylpd/sd/live.m3u8
 哈尔滨娱乐,https://stream.hrbtv.net/ylpd/sd/live.m3u8
+哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild#http://stream.hrbtv.net/ylpd/sd/live.m3u8#https://stream.hrbtv.net/ylpd/sd/live.m3u8
 七台河新闻综合,http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
 甘南县综合,rtmp://masterpull.hljtv.com/live/YbFyF4Jb
 双鸭山综合,http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
@@ -239,7 +239,6 @@ CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784
 少儿动画,rtsp://115.153.230.145/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
 少儿动画,rtsp://115.153.233.154/PLTV/88888888/224/3221227006/86440922.smil
-新动漫,http://dassby.qqff.top:99/live/新动漫/index.m3u8
 新动漫,rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.254.81/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226973/86129004.smil
