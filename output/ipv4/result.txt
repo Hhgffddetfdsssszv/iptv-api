@@ -1,7 +1,9 @@
 🕘️更新时间,#genre#
-2026-07-25 07:05:48,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+2026-07-25 19:14:52,http://txycdn6.video.qq.com/1369718502.m3u8?time=1784959315&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIJoLkiNd0HKkDRp4iMwDOk6tqDkkZD8rArPj0i1d3a0vEAUMivrdD0DKLAwUeu9Khk8BcC5oxUxIjOFEbgFKqI7ASQOIki--o-1X8R1zSGDedS6WsrYc5DpNJNCVsWvhk-0OtdHrkPyMW1bZWQ7OCY3NeTqFuydYrdshBhvGPPGEZveiCppJIzaEEIUqgtZiWpvnsRsN_84_TEAgccwr4J6wFwmnFmyF74dFr-Zs44Nm8RgHci1JOxYHQWfdSM8eoBa5l0J3-CgSpKiEQuNNmZM7koYVNj47kDUIBEj4wcdLywb11TENImyMovG_f0tI9OaX-a_yGFkDnFsvTcv-Im35NaWB0ONI5DVayH2qUi4qnuyMYFniZ9KiQUhh6GH718qxPHe6vHyhFfbrIj0nEdzNwYYkNOmFaxfSftji63qLJyab4l8djz5oFfebCpYqdIonhoV3YyVN3d8WssPoOaZVEvN_VCzDnoV9_tSY85RBbCaqGK_k9RoZ12jsyK1Klzj1NQDfTGUDj4HqhhLV56IoI2haTaTNuqXsW2fNJN1W1lAy&drmtype=0
 
 📺央视频道,#genre#
+CCTV-5,http://txycdn6.video.qq.com/1369718502.m3u8?time=1784959315&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIJoLkiNd0HKkDRp4iMwDOk6tqDkkZD8rArPj0i1d3a0vEAUMivrdD0DKLAwUeu9Khk8BcC5oxUxIjOFEbgFKqI7ASQOIki--o-1X8R1zSGDedS6WsrYc5DpNJNCVsWvhk-0OtdHrkPyMW1bZWQ7OCY3NeTqFuydYrdshBhvGPPGEZveiCppJIzaEEIUqgtZiWpvnsRsN_84_TEAgccwr4J6wFwmnFmyF74dFr-Zs44Nm8RgHci1JOxYHQWfdSM8eoBa5l0J3-CgSpKiEQuNNmZM7koYVNj47kDUIBEj4wcdLywb11TENImyMovG_f0tI9OaX-a_yGFkDnFsvTcv-Im35NaWB0ONI5DVayH2qUi4qnuyMYFniZ9KiQUhh6GH718qxPHe6vHyhFfbrIj0nEdzNwYYkNOmFaxfSftji63qLJyab4l8djz5oFfebCpYqdIonhoV3YyVN3d8WssPoOaZVEvN_VCzDnoV9_tSY85RBbCaqGK_k9RoZ12jsyK1Klzj1NQDfTGUDj4HqhhLV56IoI2haTaTNuqXsW2fNJN1W1lAy&drmtype=0
+CCTV-13,http://txycdn4.video.qq.com/1369932002.m3u8?time=1784942005&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIOoPi5PgpMmWQTAqgqG8jdSGhHGrWimhp3Thwujmqtl8EOPCXhpTyBvyg3fA5KE0iOQBcLGIubocnB0lXunaSlR75SWJOWMbnmemDmDpiarKvO-V7dZ4xjjlMpGjuEUvI0bl9n8IEUI1jBAso47ZzKEiZohfXdksgSyzaaZPuRPnYFOdaAr9jaz1k1TqhC6IEQry6mvv6XGdM2rsp95zXGp97ZCTwIC9Hxx1UvvHXRvsMnRnlVpnS1dpcT-BMrzahADW50ytM6Ih6QAVnzX_iCvECey8PhjxQkORdjcdXW_5EYk1ITAp-iTl_nt9cDIpNC1fr6szmS-YnwhgEH3BntafR_XY-p1-1555XuUKkvs1FRlwi02aZeywbR_oYe4wZadAb1Rl6ZSJXq2m-0QkpKXUviPuBttg1ji7c57Q5zxQwgugZEFpzOOJf27oli_yW6KZvDzLzMgiFNw49dJAqOYts_0GwpqA-6rWQxXRTJhQA2UaQ2t137tIYhBkkbrTzjYufZVN0lxSOxbZopiaW1SdNJZ-JkI_pAoNxb2kc7peY9DM&drmtype=0
 
 💰央视付费频道,#genre#
 
@@ -33,11 +35,9 @@
 ☘️重庆频道,#genre#
 璧山综合,http://222.179.42.129:8181/hls1.m3u8
 铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
-重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8
 重庆汽摩,http://183.230.184.51:65500/tntv1.m3u8?zzhongqd
-重庆汽摩,http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-重庆汽摩,http://222.179.155.21:1935/ch1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-重庆汽摩,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000371?AuthInfo=xxx&userid=gf001&userid=gf001
+荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+江津新闻综合,http://222.179.155.21:1935/ch1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 垫江综合,rtmp://play-sh.quklive.com/live/1672366847646284
 
 ☘️江苏频道,#genre#
@@ -46,12 +46,12 @@
 句容生活,http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 宜兴紫砂,rtmp://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs
 常熟民生,rtmp://cstvplay.21cs.cn/cstv2/cstv2
-扬州邗江,https://cm-wshls.homecdn.com/live/8c3.m3u8
 扬州邗江,http://cm-wshls.homecdn.com/live/8c3.m3u8
+扬州邗江,https://cm-wshls.homecdn.com/live/8c3.m3u8
 武进新闻,http://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 武进新闻,https://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-武进生活,https://live.wjyanghu.com/live/CH2.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 武进生活,http://live.wjyanghu.com/live/CH2.m3u8
+武进生活,https://live.wjyanghu.com/live/CH2.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 涟水综合,rtmp://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw
 睢宁综合,rtmp://221.229.243.45:1935/live/live1
 睢宁综合,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
@@ -141,8 +141,8 @@
 伊犁维吾尔,http://110.153.180.106:55555/out_2/index.m3u8?zxinjd
 伊犁哈萨克,http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
 伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8?zxinjd
-兵团五师双河新闻综合,https://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?zxinjd
 兵团五师双河新闻综合,http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?fbl=
+兵团五师双河新闻综合,https://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?zxinjd
 玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd,
 可克达拉综合,http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u8
 奎屯汉语综合,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
@@ -196,8 +196,10 @@
 ☘️内蒙古频道,#genre#
 
 ☘️云南频道,#genre#
+美丽云南,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=440ed9&tk=6949f8ce7202
 
 ☘️青海频道,#genre#
+门源综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8ca1c1&tk=6949f8ce7202
 
 ☘️黑龙江频道,#genre#
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild#http://stream.hrbtv.net/yspd/sd/live.m3u8
@@ -205,10 +207,6 @@
 哈尔滨资讯,https://stream.hrbtv.net/zxpd/sd/live.m3u8
 哈尔滨生活,https://stream.hrbtv.net/shpd/playlist.m3u8
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
-哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild#http://stream.hrbtv.net/ylpd/sd/live.m3u8#https://stream.hrbtv.net/ylpd/sd/live.m3u8
-哈尔滨娱乐,https://stream.hrbtv.net/ylpd/sd/live.m3u8
-哈尔滨娱乐,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9c782d&tk=6949f8ce7202
-大庆公共,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0ecfa4&tk=6949f8ce7202
 七台河新闻综合,http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
 甘南县综合,rtmp://masterpull.hljtv.com/live/YbFyF4Jb
 双鸭山综合,http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
@@ -217,8 +215,8 @@
 🌊港·澳·台,#genre#
 
 🎬电影频道,#genre#
-CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
+CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
