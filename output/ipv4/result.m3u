@@ -1,42 +1,12 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Hhgffddetfdsssszv/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-07-29 20:07:06
-http://txycdn7.video.qq.com/1369718502.m3u8?time=1785293976&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIMe6KxkUbQwWOx-rxc7FDSAnocx5J26hFLHZj59r5PobEN50gkKVz0xZXXep43w-5rABcAItpn2jCGFg4k9fOTM_mJgi0n1VhL88bBdmnTKjjUORo6XMSAAxUsY4M6Z1XSLbpCaDzW5r2HYUsZLCY-uyyLAMfuvL2b7lQzv3b-rdXIE4GGw3IEwnT8DINx6Jm0JI5AlewVbf8BaxGvAQA5WhOW-UX18ISaKpiTJdIZnf52--bl0_TQK0X7fCZOAqOIBPFAFfkjPOqxhRaFPSsZF7bSl-aonz1RtXnehF-oGGxK1mjIfzYD7ZwNVOklgVPdXzqRKrRlPjb8ZNPMYSQFDpVzH_q8uAZ0ERG8H8cB1NB7nWrOXIgBabMxWLgG0u1bkLPvE4aNIwOBgobMaDhx92z6hFWhH9RMW_6GcdUGsaPLsV6Z2Kjlex3Z3q_dlgRAWEA65pTenEKc8WN7hlnFawMNfNuhyWw4Lgz4_4T7JgfCzBPkjfVQqcZn1woaqFbVdxDkychGa7J6I4MYCWy5ROL0eu99K5asQhg4QH2gXRKj1m&drmtype=0
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png" group-title="📺央视频道",CCTV-5
-http://txycdn7.video.qq.com/1369718502.m3u8?time=1785293976&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIMe6KxkUbQwWOx-rxc7FDSAnocx5J26hFLHZj59r5PobEN50gkKVz0xZXXep43w-5rABcAItpn2jCGFg4k9fOTM_mJgi0n1VhL88bBdmnTKjjUORo6XMSAAxUsY4M6Z1XSLbpCaDzW5r2HYUsZLCY-uyyLAMfuvL2b7lQzv3b-rdXIE4GGw3IEwnT8DINx6Jm0JI5AlewVbf8BaxGvAQA5WhOW-UX18ISaKpiTJdIZnf52--bl0_TQK0X7fCZOAqOIBPFAFfkjPOqxhRaFPSsZF7bSl-aonz1RtXnehF-oGGxK1mjIfzYD7ZwNVOklgVPdXzqRKrRlPjb8ZNPMYSQFDpVzH_q8uAZ0ERG8H8cB1NB7nWrOXIgBabMxWLgG0u1bkLPvE4aNIwOBgobMaDhx92z6hFWhH9RMW_6GcdUGsaPLsV6Z2Kjlex3Z3q_dlgRAWEA65pTenEKc8WN7hlnFawMNfNuhyWw4Lgz4_4T7JgfCzBPkjfVQqcZn1woaqFbVdxDkychGa7J6I4MYCWy5ROL0eu99K5asQhg4QH2gXRKj1m&drmtype=0
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8.png" group-title="📺央视频道",CCTV-8
-http://txycdn1.video.qq.com/1370436702.m3u8?time=1785293787&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIPwDwUzYHtQ10q5g2PYr8lMq-QNoLB2cct77Xcq42jSZEB9Rd-4Y3XtKEp_wHhbqnWYBcKG-2YjLGRQ8cDS44452qphS4qkGrgGsAYno1lI0ox-Wknm72s2j7Ddb2BgUJF83wM_NGIzd8pIdXd9Dt3xEeCuAHoulMbC6m4m649-RVQx4Mjdb49tmSz7yfuCqZD3vKhpC693g3_obfGzmEEZkUQVkrkmR_BE1umVyXZ4WSvmXWAqiuCdq-9K8MmPu_aN8toHrq9UALqtoeA3pFf_6PgztdHJrKIkc-P3lp8nD-IrLH0Xt3z6h73UlEjWEnUDv4DxWxJDBKTZSjxzd70tYl3SDjqm93rQPIWT2VS8SGCOII32rmS-cueUxMaf_pD9iaA-laWrqSlwPJZfgNT5D63cSce5scCzRJwf18wOMrerqTNXftod0LGaZb780Tsbr6CQDYoONSefz6o5H081jMk9RizvrWVkbqaw3ujd8uO1doqD3PrtDfZBUXf7nOaUOwalk7ZcSIiuZQaR6JmnUPRM957Qx75uAiJetnCCP8YCA&drmtype=0
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV-9
-http://txycdn3.video.qq.com/1755788302.m3u8?time=1785293738&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIALSSdXQu584VviHw3jQEBPgNLWzGk4e7xqgFHbjUwryEBZbBC2chSSeEHJNqbqjqlABcN5Kh9hsAavqgkc85Cb4NG38QcUVTLLr44KnWzUUIgDGCcAncJy0xzfwTq9m2Vl-vvRYiB-LoSaBQSGLZY7NQVZ1PEhzpIIRJs93JhYN_mLw9zCA_LKV-w7k0DK4T4zgH3Ysyp-6HFAXiP74UfGv2ncuIU5ZIRCmJFAKYY1bi8ctQ38gEl8fbwWsuEc999jGTS-CHOz0wV6XakM9tw_gA4ULLM122GNqR36h2oZ-b97TLUVDDh5yko3SiM6w56tU7WUsdhy-GkGgLAFZiPEkbwYP187d_F_WbSPbDGogm3diFfqYH1R3CEcTSARF3eAnqiVttsHJ75nCu0_S-wukVhhf47XxRQXkU_CbJelXtwobvs195I3I20hJVUSarCvOcUhuC-KOI25Gi6EMTv65srZzFoXiZiJQRh291Fcz2bl6dUbpsg4n_MxvoY0YfOGqZybsZHCIzee5MVu5qupDV9AN56icFxXEhqXfrhg3cy7m&drmtype=0
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV9.png" group-title="📺央视频道",CCTV-9
-http://txycdn1.video.qq.com/1755788302.m3u8?time=1785293758&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgINkgFdbF_qfAZwFcmrahWenwJabUEJ3mcVjbFCkeIwmTEO5Q2vDLsLpi9vLN3nOglnwBcJlOmXg7bXXk2nz8Ja8ygMP8V3fI5Jv3f6TA6PbXhRGlTgYzVA8CYbkiWo-pU77fxHUUQQQPStbRGaVWTUnjZKhZ6zAYnJiup_oh9YeubufjVaCRAY3UbNkSbM2fdZh6_uiOt6iRESoBqs1ODBiAK464u667URbdp7i-lzJCkSuexYfrGUw31hA9aIK8nLdtFemDb9fWyyWURpKBk_rlC8UuzH_MTDyTJsubfQZxWUOxn02rCtalDlngmh6GelU5oSdQQkYnsk_rNQMit6NtR0K7908r107i0-WOB7js-kxnp_bZExPPjGwyw3iZrG2ZrZwAiWvJGWEzPkDix5JBy0hfyMR39rCZN2Fwzn-7E3I7HqzVcrXkuO9w-kxY8XdeXK1t6BN4-Ig1XUWRBYAWTD91vohsSXVUWIZA9xyk3-V8RBcdThEjmkR_HgP9IA7WmexiTwOM4CKPjI_B_PvzAr1MzlRvT619jHHhxLJYzKXG&drmtype=0
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="📺央视频道",CCTV-11
-http://txycdn7.video.qq.com/1370781502.m3u8?time=1785293652&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgINcpIqoJHj0z9R2Y9Q24vixffzs6npjxJhTknX_ahcPvEIuz20Erf8N84gEC354PBPgBcJSVbDNucW-nOALcdBHcMDoECXwlobrH2412ZXmySQQ4_c9qzVSdRlOHGj_g4nUrcXrwQVov3PFe-ur8Cc01kptbSAeDhJrbacOZ7nogbOg6A5qGjhxWnzJ0xiCtEnNFm3qwa2Ij-60xxxbFcY2VRCa0TJRDYoGb4gDXWadqCNgP-I__fzlo8cl7MHV1ZiOq77H0U89ciOzjD3boZxRvPWORwjzpHr9biBYKgYdy1owg8CsNH-qutoYH77tRyuaaxSNCHqA8oloAx7jSAKUPT5hJ1gTezTzwT1Ys4H-MxWqbv7qT-UBMUIrjspqw5C8xWYX7SCSUfuHYQU19R9V2orTC2tsNxtb3vpJbneeLxdyPeXsmTz_XYooGO_l8m6BT2AWgqo40KECviW5qxaMbsD5_r6cp5LEcLvvFviaFHbUc1sgtpI_TKtKiScNV_QSTaYPMbzruNjO7UlRir0ibn6LHVQaORulKCrEJIo54amkL&drmtype=0
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="📺央视频道",CCTV-12
-http://txycdn2.video.qq.com/1755789202.m3u8?time=1785293598&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgILs464LlueFMqzSfTpyNevNA-k5qKLU5sFVwQMUpKjMXELi7sYIgyLQfNt_0qh-lu1gBcGmCDbY3oCB0ciEyFGt6si-ZfOIzGv0q-gRA69YJ_xRDtQ9mtONpB3TVB7ZMBg9ufNoq184fwPUilgH7n0Y9NRhyoI5h3bjEAEFZEDubKGysHo73lUF5KBk8m2-1i0JpiAhCASLu_1a-OkDIV_HaI-PmCijJ2sOl7VSfnziMuTZWkZY7Ykgbsic9m5NERQhrl4nSkH-dzg0NsLe2WT6FscXIvK7WPfGGo_n6epBfPG1Jvbx0cU3XhMJB5zG_eSeE3QgepTtKYIBtsj5GwZZ0zfN_WDlD2WEs1T5ijfQYkwHq3SZSW9sr5or2qaK72tl7M_XQPajA7HVFbXUdfA2hfNx-ZA7j9TK-KmmLUxkb5yVjCiNyoZawuqO7vydyRNJ6eJ9pcUYzl76eM4KPkn_uuuhZpNr5kbMWh-FVSjD3zSztbRlxkC3Daa78g2ZhOyWiSj7zzUO2ev5BFAhKgNZ9xToiCwBuaFpiCRUIFbzSggyT&drmtype=0
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="📺央视频道",CCTV-15
-http://txycdn4.video.qq.com/1370782102.m3u8?time=1785293445&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgID6mAhIIlYTUDFCZC_hiCRJzuNxuA1iCC_ZHsDEBa9XZEAdS-eIpkD2lUaDd1XBQRwUBcMo11nLJhen1oIy_4HK6fJ9gLKqLvfuEYy9FqQ-Xk5xJaV3HVu-UN8zhrj0pdNyDk_gqgX7qAdwt6vLtsPUic6kOwecziDjqfJZ3qxz2NGuux8ky0WJE2IvCx46dHSrFrb-aLw9KIc1V39ZkGSo4CcA75OIpyX4nsxV5aN1P5_a4CdHx6V20QhnK2tbnX5nSIKlwn09b-xbUDb5YH-PUi4LH5t8Rm9leXa8irGuOm7_zKswLyAxNU_lkbRqZGr_tP-pK0jSxF1U4T59ioMDL40TW4iXtvoeV4IF-emGkE0F9KEURo25Mx_C43WAt6ucrIw2qBpOaAv_UNLVuGD01wRJ9tw_ObTuKt2l19ThCBZaVoxXK5QAl3hGt6ursiwqnI56Myg-VM4gB1PrPBN7x-Y4v8qqXELmS8y3szNiMUBSgusa5_Pq9jadoQ1mhl2_rWEIx5OYqOQOUt0rdWsCS9v6dI-uh9gcZbT56JAKHVulP&drmtype=0
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="📺央视频道",CCTV-16
-http://txycdn3.video.qq.com/1370437802.m3u8?time=1785293381&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIAd7IdZ64pvTlz7EEFzfGwCddpEDJ-HnIVExsz0r4S9gEOzhB_3fWXAVADm4WIfQ2-IBcE86JCy5o7By8mVWxXpB-bRJZGnzNgqqwwZtr3p0W5myiUJfUHfRFijL1YD5nCWn_VSN6yjh--2RvMKcTKXWTZhzfju1HZgLmJ39WUxN-SLvAveix0Ers2wrz0Zmi-uyVwbakIVDU2ByNRivxRuEI5z5QpxtR1AX3CzB4u2LpdGYbU0IDF7PSQFmb2EWx0zlG2izCVX6P_mpXqgbDAFqVu_-mJjy4lbz4ZBHBgBYbLN4choBLm16_jkUsTWjbGNG-ZVYR5Px54RfgjxbwsVZZLP5Geg68trnaXtb9daz_tv-fOLjRyyehyJKjTcXnKcFbbZBrM4ZYhDv-hv4Tl0JXCFZWXPEYvePZ90bjOvzAteScDP2-nKWsVC5A_G1-YeEdei8N3Z6wCRnww0rjvaBxRj_wF6QXhovzbeltJaUoQxyHwbIBU-0v4RQ_d3-htYN5cDcCrq0Jk-8KkzJ9r6ogtlt3fnJ_p9_hL7VTBQRPMqd&drmtype=0
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="📺央视频道",CCTV-16
-http://txycdn4.video.qq.com/1370437802.m3u8?time=1785293398&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIK5qnyseeA7KE9sfQeISeEqebEu_t8x1c-EE7eP-FeVTEG55ROkKD1UXvIy-s0Ws3y4BcJtAOXufiIqvwDQ4WN9H54uqF9qKEt0jQIcyFU95kC_5LlyNSdjWeCwOhqVEZHZTD0gU5R3XhMc3pAzWJfCUORVEvSEyP-FraNnp9QJoCbeGVMjuU9vqogdwitU6tREUXucUlQMTLLnBePqk8aIrs2YDDokr8Mu9uKA1ItQ3BrIDiO2DYdN1Ee7bQnU-ubepJTqbognX6yfCENVfAQZZXvpp8MhVIOjqAK98IWbcd_MvsAt-71J8hnTaSYaeNlPD0iM4NG2C0EOiQJo2C0kOreUmfhZhvGXEfJ59X1a1QsLX96qh5W9CvdMod1nOOwDcQXDxctxg-r53xnoNnl5XNmbZugBNiUZwYKTu1OpY_t0JkBeW7_r_bz-EaqiTl1Z9LaF1V0NtJsxb2AReIrwZGdAJYmvMfFP1z24qzTA78iXSs-jEE8-H7aUnBohN5dSwg-oSluGynZEAXiPC6eQsAIR1meRFtCRoWqir1IlHIRTb&drmtype=0
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="📺央视频道",CCTV-17
-https://tx-origin.pull.yximgs.com/gifshow/kwai_actL_ol_act_14842695086_strL_GameAvcFhdL0.flv?txSecret=5114cd388c35382364937213f541aa87&txTime=6a6aa29e&stat=4ZjqToMbf1AqKjHefnL3m%2BswoSeIF8q2EkEM9jD9IR8bSM2AzP%2BFHI%2FBBeqRzQoL&tsc=origin&oidc=watchmen&sidc=2756&no_script=1&srcStrm=Np2bZorFWFA&ss=s20&tfc_buyer=0
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-07-30 07:03:30
+http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
 http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视.png" group-title="📡卫视频道",深圳卫视
 http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="湖州新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖州新闻综合.png" group-title="☘️浙江频道",湖州新闻综合
-http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
-#EXTINF:-1 tvg-name="湖州新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖州新闻综合.png" group-title="☘️浙江频道",湖州新闻综合
-https://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
-#EXTINF:-1 tvg-name="湖州文化娱乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖州文化娱乐.png" group-title="☘️浙江频道",湖州文化娱乐
-http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
-#EXTINF:-1 tvg-name="湖州文化娱乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖州文化娱乐.png" group-title="☘️浙江频道",湖州文化娱乐
-https://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
 #EXTINF:-1 tvg-name="绍兴电视台公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/绍兴电视台公共.png" group-title="☘️浙江频道",绍兴电视台公共
 http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-#EXTINF:-1 tvg-name="湖州公共民生" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/湖州公共民生.png" group-title="☘️浙江频道",湖州公共民生
-http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e
 #EXTINF:-1 tvg-name="海宁新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海宁新闻综合.png" group-title="☘️浙江频道",海宁新闻综合
 http://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8
 #EXTINF:-1 tvg-name="海宁新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海宁新闻综合.png" group-title="☘️浙江频道",海宁新闻综合
@@ -47,8 +17,6 @@ https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=btv3&P2PChannelID=pd://cctv_p2p_hdbtv3
 #EXTINF:-1 tvg-name="北京青年" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京青年.png" group-title="☘️北京频道",北京青年
 http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
-#EXTINF:-1 tvg-name="全纪实" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/全纪实.png" group-title="☘️上海频道",全纪实
-http://139.196.151.191/rtp/239.45.3.135:5140
 #EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新闻综合.png" group-title="☘️上海频道",新闻综合
 https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/都市剧场.png" group-title="☘️上海频道",都市剧场
@@ -86,9 +54,9 @@ https://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%
 #EXTINF:-1 tvg-name="武进新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武进新闻.png" group-title="☘️江苏频道",武进新闻
 http://live.wjyanghu.com/live/CH1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 #EXTINF:-1 tvg-name="武进生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武进生活.png" group-title="☘️江苏频道",武进生活
-http://live.wjyanghu.com/live/CH2.m3u8
-#EXTINF:-1 tvg-name="武进生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武进生活.png" group-title="☘️江苏频道",武进生活
 https://live.wjyanghu.com/live/CH2.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+#EXTINF:-1 tvg-name="武进生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武进生活.png" group-title="☘️江苏频道",武进生活
+http://live.wjyanghu.com/live/CH2.m3u8
 #EXTINF:-1 tvg-name="涟水综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/涟水综合.png" group-title="☘️江苏频道",涟水综合
 rtmp://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw
 #EXTINF:-1 tvg-name="睢宁综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睢宁综合.png" group-title="☘️江苏频道",睢宁综合
@@ -97,8 +65,6 @@ rtmp://221.229.243.45:1935/live/live1
 https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 #EXTINF:-1 tvg-name="赣榆新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赣榆新闻综合.png" group-title="☘️江苏频道",赣榆新闻综合
 rtmp://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv
-#EXTINF:-1 tvg-name="镇江二套社会民生" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/镇江二套社会民生.png" group-title="☘️江苏频道",镇江二套社会民生
-http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 #EXTINF:-1 tvg-name="镇江新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/镇江新闻综合.png" group-title="☘️江苏频道",镇江新闻综合
 http://cm-wshls.homecdn.com/live/2aa50.m3u8
 #EXTINF:-1 tvg-name="朝阳新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/朝阳新闻综合.png" group-title="☘️辽宁频道",朝阳新闻综合
@@ -196,9 +162,9 @@ https://play.kankanlive.com/live/1652755738635915.m3u8
 #EXTINF:-1 tvg-name="渭源新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/渭源新闻.png" group-title="☘️甘肃频道",渭源新闻
 http://play.kankanlive.com/live/1720408280309109.m3u8
 #EXTINF:-1 tvg-name="白银综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/白银综合.png" group-title="☘️甘肃频道",白银综合
-https://play.kankanlive.com/live/1720408089419110.m3u8
-#EXTINF:-1 tvg-name="白银综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/白银综合.png" group-title="☘️甘肃频道",白银综合
 http://play.kankanlive.com/live/1720408089419110.m3u8
+#EXTINF:-1 tvg-name="白银综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/白银综合.png" group-title="☘️甘肃频道",白银综合
+https://play.kankanlive.com/live/1720408089419110.m3u8
 #EXTINF:-1 tvg-name="秦安综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/秦安综合.png" group-title="☘️甘肃频道",秦安综合
 rtmp://play.kankanlive.com/live/1680577080200944
 #EXTINF:-1 tvg-name="秦安综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/秦安综合.png" group-title="☘️甘肃频道",秦安综合
@@ -257,8 +223,12 @@ http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
 http://stream8.jlntv.cn/ljtv/playlist.m3u8
 #EXTINF:-1 tvg-name="延边-2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/延边-2.png" group-title="☘️吉林频道",延边-2
 http://stream5.jlntv.cn/wq/playlist.m3u8
+#EXTINF:-1 tvg-name="延边汉语综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/延边汉语综合.png" group-title="☘️吉林频道",延边汉语综合
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=fc8342&tk=6949f8ce7202
 #EXTINF:-1 tvg-name="德惠综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/德惠综合.png" group-title="☘️吉林频道",德惠综合
 http://stream11.jlntv.cn/dehuitv/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+#EXTINF:-1 tvg-name="德惠综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/德惠综合.png" group-title="☘️吉林频道",德惠综合
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7629b6&tk=6949f8ce7202
 #EXTINF:-1 tvg-name="九台综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/九台综合.png" group-title="☘️吉林频道",九台综合
 http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 #EXTINF:-1 tvg-name="靖宇综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/靖宇综合.png" group-title="☘️吉林频道",靖宇综合
@@ -314,9 +284,9 @@ http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="双鸭山综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/双鸭山综合.png" group-title="☘️黑龙江频道",双鸭山综合
 rtmp://masterpull.hljtv.com/live/BowdCSzZ
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
-http://dassby.qqff.top:99/live/CHC高清/index.m3u8
-#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
 http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
+http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
 rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC高清电影.png" group-title="🎬电影频道",CHC高清电影
@@ -342,6 +312,8 @@ rtsp://115.153.222.112:554/PLTV/88888888/224/3221227006/86440922.smil
 #EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="🪁动画频道",少儿动画
 rtsp://115.153.233.154/PLTV/88888888/224/3221227006/86440922.smil
 #EXTINF:-1 tvg-name="新动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新动漫.png" group-title="🪁动画频道",新动漫
+http://dassby.qqff.top:99/live/新动漫/index.m3u8
+#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新动漫.png" group-title="🪁动画频道",新动漫
 rtsp://115.153.245.70/PLTV/88888888/224/3221226973/86129004.smil
 #EXTINF:-1 tvg-name="新动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新动漫.png" group-title="🪁动画频道",新动漫
 rtsp://115.153.254.81/PLTV/88888888/224/3221226973/86129004.smil
@@ -358,8 +330,8 @@ rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil
 #EXTINF:-1 tvg-name="新动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新动漫.png" group-title="🪁动画频道",新动漫
 rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil
 #EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐现场.png" group-title="🎵音乐频道",音乐现场
-http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
-#EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐现场.png" group-title="🎵音乐频道",音乐现场
 https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+#EXTINF:-1 tvg-name="音乐现场" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐现场.png" group-title="🎵音乐频道",音乐现场
+http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 #EXTINF:-1 tvg-name="潮流音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/潮流音乐.png" group-title="🎵音乐频道",潮流音乐
 http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
